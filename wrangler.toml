@@ -1,0 +1,10 @@
+name = "programmable-banking-docs"
+type = "webpack"
+account_id = "05a8af8f166ebdc8cf676bf20f09bbb7"
+workers_dev = true
+route = ""
+zone_id = "003ff6d73e372fa84baf5bde43aff91d"
+
+[site]
+bucket = "./build"
+entry-point = "workers-site"
